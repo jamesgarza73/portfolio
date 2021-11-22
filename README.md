@@ -1,9 +1,6 @@
 # James Garza
-I am a Financial Advisor using machine learning and trading algorithms to help my clients achieve better returns.  
 
-In my journey so far,
-* Developed algorithms to find portfolio allocations.  
-    Sharpe Ratio / effecient frontier
-    Minimum Variance
-* Stock selection by risk appetite
-* 
+Diligent professional with over 20 years of financial services and customer facing work experience. Detailed oriented with a proven knowledge of Python, Data Analysis and Visualization. Aiming to leverage my skills as a business analysis to further my career in technology and data analytics. 
+
+
+
