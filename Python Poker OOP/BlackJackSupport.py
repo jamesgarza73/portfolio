@@ -7,7 +7,7 @@ Created on Sun Dec 13 18:05:22 2020
 """
 # Declare libraries needed to be used in the code
 import random
-import mysql.connector
+#import mysql.connector
 
 # This is the Card class that will be used to create a card with suit, rank and value
 # There is alos the function to deal with an ace in the player's hand. Legacy code.
